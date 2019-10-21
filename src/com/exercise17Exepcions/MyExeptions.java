@@ -36,8 +36,7 @@ public class MyExeptions {
 		
 		for (int i = 0; i < 10; i++) 
 		{
-			try 
-			
+			try 			
 			{
 				System.out.println("Input a number between 9-10");
 				numbers[i] = input.nextInt();
